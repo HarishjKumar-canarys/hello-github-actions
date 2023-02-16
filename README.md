@@ -4,10 +4,7 @@ This course will walk you through writing your first action and using it with a 
 
 **Ready to get started? Navigate to the first issue.**
 
-<head>
-  <link rel="stylesheet" href="styles.css">
-</head>
-  <!--Tabs-->
+<!--Tabs-->
 <input id="tab1" type="radio" name="tabs" checked>
 <label for="tab1">Tab 1</label>
 
@@ -29,3 +26,6 @@ This course will walk you through writing your first action and using it with a 
   <p>Tab 3 content goes here.</p>
 </div>
 <!--Tabs End-->
+
+<link rel="stylesheet" href="https://github.com/HarishjKumar-canarys/hello-github-actions/edit/main/styles.css">
+
