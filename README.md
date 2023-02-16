@@ -27,5 +27,5 @@ This course will walk you through writing your first action and using it with a 
 </div>
 <!--Tabs End-->
 
-<link rel="stylesheet" href="https://github.com/HarishjKumar-canarys/hello-github-actions/edit/main/styles.css">
+<link rel="stylesheet" href="/styles.css">
 
